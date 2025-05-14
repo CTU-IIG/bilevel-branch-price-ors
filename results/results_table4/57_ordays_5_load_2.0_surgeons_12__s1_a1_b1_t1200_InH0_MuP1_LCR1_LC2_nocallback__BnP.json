@@ -1,0 +1,96 @@
+{
+    "proved_optimal": true,
+    "obj": 16,
+    "relax_obj": 16.0,
+    "num_LCs": 0,
+    "num_callbacks": 0,
+    "num_CG_iterations": 20,
+    "num_columns": 200,
+    "num_nodes": 1,
+    "overall_time": 8.820219039916992,
+    "callback_time": 0.0,
+    "subproblem_time": 4.146603584289551,
+    "mp_time": 4.666250705718994,
+    "inh_time": null,
+    "ilp_time": 0.0,
+    "surgeon_schedule": {
+        "0": [
+            31,
+            41
+        ],
+        "1": [
+            5
+        ],
+        "2": [
+            12
+        ],
+        "4": [
+            20,
+            48
+        ],
+        "5": [
+            37
+        ],
+        "7": [
+            0,
+            25
+        ],
+        "8": [
+            9,
+            29
+        ],
+        "9": [
+            39
+        ],
+        "11": [
+            19
+        ]
+    },
+    "patient_schedule": {
+        "36": 31,
+        "43": 31,
+        "2": 41,
+        "20": 41,
+        "22": 41,
+        "27": 41,
+        "38": 41,
+        "0": 5,
+        "6": 5,
+        "10": 5,
+        "12": 12,
+        "15": 12,
+        "21": 12,
+        "24": 12,
+        "25": 12,
+        "31": 12,
+        "32": 20,
+        "40": 20,
+        "3": 48,
+        "4": 48,
+        "30": 48,
+        "5": 37,
+        "28": 37,
+        "41": 37,
+        "19": 0,
+        "49": 0,
+        "34": 25,
+        "45": 25,
+        "7": 9,
+        "13": 29,
+        "47": 29,
+        "11": 39,
+        "16": 39,
+        "23": 39,
+        "1": 19
+    },
+    "instance": null,
+    "parameters": null,
+    "parameters_data": null,
+    "patients": null,
+    "capacity": null,
+    "num_days": null,
+    "num_ORs": null,
+    "num_surgeons": null,
+    "initial_heuristics_time": 0.0,
+    "gap": 0.0
+}

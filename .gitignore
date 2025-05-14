@@ -1,0 +1,13 @@
+*.out
+*.err
+*.txt
+*.xlsx
+*.pdf
+
+*.lp
+*ilp
+
+/.idea/
+__pycache__/
+
+/.env
